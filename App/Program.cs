@@ -1,4 +1,8 @@
 ﻿using App;
+// TODO: Oluşturulan foodlar yeşil renkte görünmesi lazım.
+// BUG: Yılan başlayınca haritanın bir kenarı kayıp oluyor.
+// TODO: Game Over olunca bir tuş ile restart yapılanması kurulabilir.
+// BUG: Yılan düz giderken bir anda geriye dönüp kendini yemeye kalkıyor bu hareket engellenebilir.
 
 Console.CursorVisible = false;
 
